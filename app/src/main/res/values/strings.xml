@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Travel Itinerary</string>
+    <string name="title">Activities</string>
+    <string name="day">Day</string>
+    <string name="add_text">Add</string>
+    <string name="removeAll_text">Remove All</string>
+</resources>
